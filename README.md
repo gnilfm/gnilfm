@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá👋
+
+### Apresentação:
+Meu nome e Nil e estou aprendendo a programar.
+- 🔭 Não trabalho com Programação, mas pretendo.
+- 🌱 Atualmente estou aprendendo Git e Github.
 
 <!--
 **gnilfm/gnilfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
