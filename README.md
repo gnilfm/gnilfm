@@ -14,7 +14,7 @@ Meu nome e Nil e estou aprendendo a programar.
 ![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-## Status 
+## 📋 Status 
 <div align=center>
           
 ![Nil GitHub status](https://github-readme-stats.vercel.app/api?username=gnilfm&hide==stars,prs,issues,contribs_icons=true&theme=transparent&show_icons=true)
@@ -23,7 +23,7 @@ Meu nome e Nil e estou aprendendo a programar.
 
 </div>
 
-## Social Media
+## 🔍 Social Media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
 
 
