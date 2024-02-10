@@ -26,6 +26,16 @@ Meu nome e Nil e estou aprendendo a programar.
 ## 🔍 Social Media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
 
+## 🗃️ Links Úteis
+
+[Tags tecnologias(Badges4-README.md-Profile)](https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages-)
+
+[Github Profile Header Generator](https://leviarista.github.io/github-profile-header-generator/)
+
+[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+[github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **gnilfm/gnilfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
