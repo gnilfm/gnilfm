@@ -2,7 +2,6 @@
 
 ### 🤔 Apresentação:
 Meu nome e Nil e estou aprendendo a programar.
-- 🌱 Atualmente estou aprendendo Git e Github.
 
 ## 🌟 Tecnologias que tive contato
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
